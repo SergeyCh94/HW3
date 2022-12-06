@@ -204,7 +204,7 @@ public class Main {
 
     public static void task17 () {
         System.out.println("Задача 17");
-        int day = 5;
+        int day = 7;
         for (int i = 1; i <= 31; i++) {
             if (i % day == 0) {
                 System.out.println("Сегодня пятница, " + i + "-е число. Необходимо подготовить отчет");
